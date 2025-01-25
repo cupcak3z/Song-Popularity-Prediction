@@ -1,1 +1,10 @@
 # Song-Popularity-Prediction
+
+## Background
+With the constant technological advancements and changes in the preferences of listeners, the music industry is on the rise. Predicting a song's popularity has become more complex and complicated to complete with the many different factors that can affect the popularity or the success of the song. Specific attributes of a song can provide valuable insights for stakeholders. These stakeholders include artists, producers and record labels.
+
+## Problem Statement
+We are to analysis the dataset, 'song_popularity.csv', to investigate the influence of various song characteristics on the song's popularity. This is such that XYZ Music Records Company can enhance their marketing strategies and optimise resource allocation while increasing the popularity and profitability of their songs. In the highly competitive music industry, XYZ Music Records Company can use the insights gathered from the analysis to make informed decisions on which songs to promote more aggressively, which characteristic to emphasise during music production and how to ensure that marketing effors are maximising profits and revenue. A prediction model can be created to estimate and predict the popularity of the songs based on the difference characteristics of the songs. The data must first be preprocessed and transformed before conducting intepretation and insights that can benefit the company.
+
+## Objectives
+We are tasked to investigate the influence of various song characteristics on a song's popularity. Based on the dataset used in this assignment, the goal of this project is to create a prediction model to find the popularity of the song based off its various attributes with some objectives. This is to explore the best or suggested song characteristics on song popularity, to determine the influence on listener preferences and performance of the songs. Our primary objective is to conduct analysis on the dataset and offer valuable insights to the management team by aiding them in optimizing their allocation of marketing resources as this can prove beneficial for the company and have the potential to save costs and expenses.
